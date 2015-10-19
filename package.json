@@ -1,0 +1,34 @@
+{
+  "name": "package-dependents",
+  "version": "1.0.0",
+  "description": "Get the npm dependents of a given package.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "npm-get-dependents": "^1.0.0",
+    "package-json": "^2.1.0",
+    "same-time": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/node-package-dependents.git"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "dependents",
+    "objects"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "KINDLY",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/node-package-dependents/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/node-package-dependents#readme"
+}
