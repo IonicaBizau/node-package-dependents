@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "npm-get-dependents": "^1.0.0",
-    "package-json": "^2.1.0",
+    "package-json": "^2.2.1",
     "same-time": "^2.0.0"
   },
   "devDependencies": {},
@@ -30,5 +30,8 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-package-dependents/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/node-package-dependents#readme"
+  "homepage": "https://github.com/IonicaBizau/node-package-dependents#readme",
+  "blah": {
+    "h_img": "http://i.imgur.com/nehBMvB.png"
+  }
 }
