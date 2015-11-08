@@ -1,6 +1,7 @@
 [![package-dependents](http://i.imgur.com/nehBMvB.png)](#)
 
 # package-dependents [![Support this project][donate-now]][paypal-donations]
+
 Get the npm dependents of a given package.
 
 ## Installation
@@ -80,6 +81,7 @@ If you are using this library in one of your projects, add it in this list. :spa
 [KINDLY][license] © [Ionică Bizău][website]
 
 [license]: http://ionicabizau.github.io/kindly-license/?author=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica@gmail.com%3E&year=2015
+
 [website]: http://ionicabizau.net
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
 [donate-now]: http://i.imgur.com/6cMbHOC.png
