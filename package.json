@@ -1,6 +1,6 @@
 {
   "name": "package-dependents",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Get the npm dependents of a given package.",
   "main": "lib/index.js",
   "directories": {
@@ -33,5 +33,16 @@
   "homepage": "https://github.com/IonicaBizau/node-package-dependents#readme",
   "blah": {
     "h_img": "http://i.imgur.com/nehBMvB.png"
-  }
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
