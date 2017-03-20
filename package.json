@@ -1,6 +1,6 @@
 {
   "name": "package-dependents",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "Get the npm dependents of a given package.",
   "main": "lib/index.js",
   "directories": {
@@ -25,7 +25,7 @@
     "dependents",
     "objects"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-package-dependents/issues"
@@ -38,12 +38,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
