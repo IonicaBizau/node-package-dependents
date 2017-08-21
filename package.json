@@ -7,7 +7,7 @@
     "example": "example"
   },
   "dependencies": {
-    "npm-get-dependents": "^1.0.0",
+    "npm-pack-dependents": "0.0.0",
     "package-json": "^2.2.1",
     "same-time": "^2.0.0"
   },
