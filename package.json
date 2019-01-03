@@ -1,6 +1,6 @@
 {
   "name": "package-dependents",
-  "version": "1.2.10",
+  "version": "1.2.11",
   "description": "Get the npm dependents of a given package.",
   "main": "lib/index.js",
   "directories": {
