@@ -1,15 +1,14 @@
 {
   "name": "package-dependents",
-  "version": "1.2.11",
+  "version": "2.0.0",
   "description": "Get the npm dependents of a given package.",
   "main": "lib/index.js",
   "directories": {
     "example": "example"
   },
   "dependencies": {
-    "npm-pack-dependents": "^1.0.0",
-    "package-json": "^2.2.1",
-    "same-time": "^2.0.0"
+    "npm-pack-dependents": "^2.0.0",
+    "package-json": "^6.5.0"
   },
   "devDependencies": {},
   "scripts": {
