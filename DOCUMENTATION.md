@@ -2,7 +2,7 @@
 
 You can see below the API reference of this module.
 
-### `PackageDependents(name, version, callback)`
+### `PackageDependents(name, version)`
 Get the dependents of a given packages. The callback function is called with
 an error and an array of objects.
 
@@ -10,5 +10,4 @@ an error and an array of objects.
 
 - **String** `name`: The package name.
 - **String** `version`: The package version (default: `"latest"`).
-- **Function** `callback`: The callback function.
 
